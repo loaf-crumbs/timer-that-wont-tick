@@ -1,0 +1,3 @@
+- The timer increments by 1 every second without freezing
+- The display matches the actual number of seconds elapsed since the component mounted
+- Unmounting and remounting the component resets the count to 0

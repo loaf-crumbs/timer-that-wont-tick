@@ -1,0 +1,7 @@
+{
+  "title": "The timer that runs but never ticks",
+  "tagline": "The interval fires every second. The display disagrees.",
+  "difficulty": "soft",
+  "stack": "react",
+  "estimated_minutes": 15
+}

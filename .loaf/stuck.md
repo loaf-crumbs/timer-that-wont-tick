@@ -1,0 +1,4 @@
+- The interval is definitely firing — the bug is somewhere between the callback running and the display updating
+- Functions in JavaScript capture variable values from the scope where they were created, not from the scope where they run
+- What value does `seconds` have inside the setInterval callback on the third, fourth, or fifth tick?
+- React's setState has two forms — one that takes a value, and one that takes a function. The second form exists specifically for situations like this; look up how it works

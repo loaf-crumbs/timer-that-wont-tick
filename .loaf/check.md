@@ -1,0 +1,4 @@
+- Timer value reaches at least 10 after 10 seconds with no manual intervention
+- Timer value is strictly incrementing (never the same value twice in a row)
+- No React warnings or errors in browser console
+- Toggling the component off and back on resets the display to 0
